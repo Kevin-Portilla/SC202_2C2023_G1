@@ -1,6 +1,6 @@
 package com.mycompany.sc202_2c2023_g1;
 //git es god
-
+//Importacion del proyecto
 import Objetos.Barbero;
 import Objetos.ReservacionClientes;
 import Objetos.Agenda;
